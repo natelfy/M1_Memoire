@@ -1,0 +1,18 @@
+# Fichiers temporaires LaTeX
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+
+# Ignorer le PDF généré (le code source suffit pour le recréer)
+*.pdf
+
+# Ignorer les paramètres locaux de l'éditeur
+.vscode/
